@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/almarzouk/](https://www.linkedin.com/in/almarzouk/)
 
-- ⚡ Hobbies **Footbal & watch football**
+- ⚡ Hobbies **Football & watch football**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
