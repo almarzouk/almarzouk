@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm jumaa</h1>
-<h3 align="center">A passionate frontend & backend developer from Syria</h3>
+<p align="center">I am a skilled Frontend/Backend Web Developer with experience in building beautiful and efficient websites and web solutions. I am passionate about creating clean, user-friendly designs and implementing cutting-edge technologies. I am always eager to take on new challenges and learn new skills, and I am looking forward to working on exciting projects with a team of like-minded individuals.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=almarzouk&label=Profile%20views&color=0e75b6&style=flat" alt="almarzouk" /> </p>
 
