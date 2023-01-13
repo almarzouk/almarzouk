@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=almarzouk&label=Profile%20views&color=0e75b6&style=flat" alt="almarzouk" /> </p>
 
-- 🔭 I’m currently studying in [A.F.P.A in Angouleme, France](https://www.afpa.fr/)
+- Frontend development: **HTML, CSS, JavaScript, Bootstrap, Tailwindcss**.
 
-- 🌱 I’m currently learning **PHP & MYSQL**
+- Frontend development: **MYSQL, PHP**.
 
 - 👨‍💻 All of my projects are available at [https://almarzouk.github.io/myfolio/](https://almarzouk.github.io/myfolio/)
-
-- 💬 Ask me about **HTML, CSS, Javascript, SASS, Bootstrap and PHP**
 
 - 📫 How to reach me **jumaa.almarzouk@gmail.com**
 
